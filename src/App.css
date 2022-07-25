@@ -1,0 +1,14 @@
+/* div{
+  background-color: gray;
+  color: #FFFFFF;
+} */
+
+.dark-card{
+  background-color: black;
+  color: white;
+}
+
+.light-card{
+  background-color: white;
+  color: black;
+}
